@@ -2,13 +2,12 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/AhmedSaad332?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedSaad332)
-![Top Language](https://img.shields.io/github/languages/top/AhmedSaad332)
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **Computer Science student and Software Engineer** with a focus on **AI, Web Development, and .NET backend development**. I love building projects that solve real-world problems and showcase my technical skills.
+I am a passionate **Computer Science student and AI Engineer** with a focus on **AI, Web Development, and .NET backend development**. I love building projects that solve real-world problems and showcase my technical skills.
 
 ---
 
@@ -17,19 +16,12 @@ I am a passionate **Computer Science student and Software Engineer** with a focu
 - **Programming Languages:** Python, C++, C#, JavaScript  
 - **Web Development:** HTML5, CSS3, JavaScript, React, Tailwind CSS, Sass, jQuery  
 - **Backend:** .NET, MVC, Web API, LINQ, EF Core, MySQL  
-- **AI & ML:** AI systems, OCR, Deep Learning (Face Mask Detection)  
+- **AI & ML:** Deep Learning (Face Mask Detection)  
 - **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, MATLAB  
 
 ---
 
-## 💼 Favorite Projects
 
-- **AI-Course Repository:** Structured AI course with sessions, assignments, and roadmap.  
-- **Face Mask Detection AI:** Automated detection system for mask compliance in public areas.  
-- **Dynamic Recipe Website:** Interactive web application with API integration and filtering features.  
-- **ERP Projects Portfolio:** Full-stack ERP applications showcasing .NET and React capabilities.  
-
----
 
 ## 📊 GitHub Stats
 
@@ -40,9 +32,9 @@ I am a passionate **Computer Science student and Software Engineer** with a focu
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Ahmed Saad](https://www.linkedin.com/in/ahmedsaad427/)  
-- **Email:** ahmedsaad427@example.com  
-- **Portfolio:** [Your Portfolio Link]  
+- **LinkedIn :** [Ahmed Saad](https://www.linkedin.com/in/ahmedsaad427/)  
+- **Email :** [Email Me](ahmedskaram2@gmail.com)
+- **Phone Number :** 01033726200 
 
 ---
 
